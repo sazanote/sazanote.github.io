@@ -15,10 +15,10 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "SAZA NOTE"
+locale                   : "KO"
+title                    : "SAZA-NOTE"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "사자가 쓴 공책"
 name                     : "SAZA"
 description              : "STUDENT / Interested in FE"
 url                      : "https://sazanote.github.io"
@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "SAZA"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "STUDENT / Interested in FE"
+  location         : "Republic of Korea"
+  email            : "484roeroi@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
