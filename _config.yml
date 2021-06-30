@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "SAZA"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://avatars.githubusercontent.com/u/53362393?v=4" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "STUDENT / Interested in FE"
   location         : "Republic of Korea"
   email            : "484roeroi@gmail.com"
